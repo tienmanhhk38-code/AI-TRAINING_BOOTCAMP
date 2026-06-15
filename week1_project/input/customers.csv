@@ -1,0 +1,6 @@
+name,email,customer_id
+An,an@example.com,1
+Binh,bad-email,2
+Chi,chi@example.com,3
+Dung,dung@example.com,invalid-id
+Em,em@example.com,9999
