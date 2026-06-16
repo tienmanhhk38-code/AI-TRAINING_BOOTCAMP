@@ -1,0 +1,6 @@
+name,email,customer_id,is_valid,errors,api_name,api_email,api_company,status
+An,an@example.com,1,True,,Leanne Graham,Sincere@april.biz,Romaguera-Crona,success
+Binh,bad-email,2,False,invalid_email,,,,invalid_data
+Chi,chi@example.com,3,True,,Clementine Bauch,Nathan@yesenia.net,Romaguera-Jacobson,success
+Dung,dung@example.com,invalid-id,False,invalid_customer_id,,,,invalid_data
+Em,em@example.com,9999,True,HTTPError,,,,api_error

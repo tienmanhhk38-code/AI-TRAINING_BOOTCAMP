@@ -1,0 +1,194 @@
+[
+  {
+    "id": "58a180bc3b954de08ede9b282c633c0c",
+    "title": "Công ty có những chính sách nào?",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Công ty có những chính sách nào?",
+        "created_at": "2026-06-16T10:10:53.350332+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "Gemini is not responding right now. Please try again in a moment. Based on approved documents: các Phòng Ban có liên quan có\ntrách nhiệm thực hiện chính sách này.\n11. Hiệu lực: Chính sách này có hiệu lực từ ngày ban hành cho đến khi có văn bản khác thay\nthế.",
+        "created_at": "2026-06-16T10:10:53.350332+00:00",
+        "sources": [
+          "44fbab3331404322bf48bef727d3ff5a:c12",
+          "9c14eee8f6ae4475b873f8a094ffbd18:c12",
+          "402e902259a643febcba369f1712a331:c27"
+        ],
+        "llm": "local_fallback"
+      }
+    ],
+    "created_at": "2026-06-16T10:10:50.537559+00:00",
+    "updated_at": "2026-06-16T10:10:53.350332+00:00"
+  },
+  {
+    "id": "60f4bbfd1ce347f4a24b925326a18192",
+    "title": "Chính sách nghỉ phép thế nào?",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Chính sách nghỉ phép thế nào?",
+        "created_at": "2026-06-16T10:09:16.134257+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "Chào bạn, dưới đây là thông tin chi tiết về chính sách nghỉ phép của công ty dựa trên các quy định hiện hành:\n\n### 1. Quy trình và hình thức nghỉ phép\n* **Hình thức nghỉ:** Cá nhân có thể nghỉ hưởng lương hoặc không hưởng lương tùy theo nhu cầu và quy định.\n* **Quy trình xin nghỉ:** \n  * Tất cả các trường hợp xin nghỉ phép, nghỉ ốm, nghỉ thai sản, nghỉ việc riêng (dù có hưởng lương hay không",
+        "created_at": "2026-06-16T10:09:16.134257+00:00",
+        "sources": [
+          "9cdcb9b7e9b843ca9c6e43b9ad3e1fa8:c3",
+          "ef5fe8cf9cdd48ae8d2cc1e366defaa3:c3",
+          "402e902259a643febcba369f1712a331:c11"
+        ],
+        "llm": "gemini"
+      },
+      {
+        "role": "user",
+        "content": "Quy trình xin nghỉ phép thế nào?",
+        "created_at": "2026-06-16T10:09:33.820934+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "Gemini is not responding right now. Please try again in a moment. Based on approved documents: Ỉ PHÉP\no Chấm dứt Hợp đồng lao động từ ngày 01 đến ngày 15 hàng tháng: không có ngày phép tháng\nđó.\no Chấm dứt Hợp đồng lao động từ ngày 16 đến cuối tháng: tính 1 ngày phép.\n▪ Người lao động có thể tạm ứng sử dụng trước các ngày phép năm trong quý nếu không ảnh hưởng\nđến công việc.\n▪ Nhân viên xin nghỉ phép, nghỉ ốm, nghỉ thai sản, nghỉ việc riêng có hưởng lương hay không hưởng\nlương đều phải làm đơn xin nghỉ phép trên phần mềm My BnK và thông báo cho bộ phận HR/GA\ntrường hợp nghỉ theo chế độ BH",
+        "created_at": "2026-06-16T10:09:33.820934+00:00",
+        "sources": [
+          "402e902259a643febcba369f1712a331:c11",
+          "a91d25c81cbc4936a5298005b6b96c83:c11",
+          "9cdcb9b7e9b843ca9c6e43b9ad3e1fa8:c3"
+        ],
+        "llm": "local_fallback"
+      },
+      {
+        "role": "user",
+        "content": "Quy trình xin nghỉ phép thế nào?",
+        "created_at": "2026-06-16T10:09:36.623461+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "Gemini is not responding right now. Please try again in a moment. Based on approved documents: Ỉ PHÉP\no Chấm dứt Hợp đồng lao động từ ngày 01 đến ngày 15 hàng tháng: không có ngày phép tháng\nđó.\no Chấm dứt Hợp đồng lao động từ ngày 16 đến cuối tháng: tính 1 ngày phép.\n▪ Người lao động có thể tạm ứng sử dụng trước các ngày phép năm trong quý nếu không ảnh hưởng\nđến công việc.\n▪ Nhân viên xin nghỉ phép, nghỉ ốm, nghỉ thai sản, nghỉ việc riêng có hưởng lương hay không hưởng\nlương đều phải làm đơn xin nghỉ phép trên phần mềm My BnK và thông báo cho bộ phận HR/GA\ntrường hợp nghỉ theo chế độ BH",
+        "created_at": "2026-06-16T10:09:36.623461+00:00",
+        "sources": [
+          "402e902259a643febcba369f1712a331:c11",
+          "a91d25c81cbc4936a5298005b6b96c83:c11",
+          "9cdcb9b7e9b843ca9c6e43b9ad3e1fa8:c3"
+        ],
+        "llm": "local_fallback"
+      },
+      {
+        "role": "user",
+        "content": "Quy trình xin nghỉ phép thế nào?",
+        "created_at": "2026-06-16T10:09:47.034599+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "Chào bạn, quy trình xin nghỉ phép tại công ty được thực hiện theo các bước cụ thể dưới đây:\n\n1. **Tạo yêu cầu nghỉ phép:**\n   * Khi có nhu cầu xin nghỉ (bao gồm nghỉ phép, nghỉ ốm, nghỉ thai sản, nghỉ việc riêng có hưởng lương hay không hưởng lương), bạn cần làm đơn xin nghỉ phép (tạo *leave request*) trên phần mềm **My BnK**.\n\n2. **Phê duyệt yêu cầu:**\n   * Yêu cầu nghỉ phép của bạn cần được phê duyệt bởi quản lý trực tiếp (PM), BUL hoặc trưởng phòng ban.\n\n3. **Thông báo cho bộ phận nhân sự (nếu có):**\n   * Đối với các trường hợp nghỉ theo chế độ Bảo hiểm (BH), bạn cần thông báo cho bộ phận HR/GA để được hỗ trợ giải quyết.\n\n*Lưu ý thêm:* Bạn có thể tạm ứng sử dụng trước các ngày phép năm trong quý nếu việc này không gây ảnh hưởng đến công việc chung.",
+        "created_at": "2026-06-16T10:09:47.034599+00:00",
+        "sources": [
+          "402e902259a643febcba369f1712a331:c11",
+          "a91d25c81cbc4936a5298005b6b96c83:c11",
+          "9cdcb9b7e9b843ca9c6e43b9ad3e1fa8:c3"
+        ],
+        "llm": "gemini"
+      },
+      {
+        "role": "user",
+        "content": "giám đốc bnk vinh là ai",
+        "created_at": "2026-06-16T10:10:11.619924+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "Gemini is not responding right now. Please try again in a moment. Based on approved documents: VISIONMISSIONCORE\nVALUES\nNơi để thuộc về\nI. I. Organization Chart\nBnK Solution\nCông ty Cổ phần Giải\nPháp BnK\nBnK Japan\nCông ty TNHH Phần\nMềm B&K Japan\nBnK Singapore\nCông ty TNHH Phần\nMềm B&K Singapore\nBnK Vinh\nĐịa điểm kinh doanh\nBnK Q3\nBnK HN\nĐịa điểm kinh doanh\nĐịa điểm kinh doanh\nBnK Vinh\nCông ty TNHH Phần Mềm\nB&K Vinh\nCEO\nHDQT\nExecutive Board\nTPS\n• Presales | New\nTechnology\n• Technical Excellent\n• Productivity with GenAI\nBU6\n• CIMB Group\n• LowCode HCM Site\n(OS, Neptune)\n• Site: HCM | Vinh\nKa",
+        "created_at": "2026-06-16T10:10:11.619924+00:00",
+        "sources": [
+          "55389b4aef6a46c6b4dbab76306997e2:c1",
+          "402e902259a643febcba369f1712a331:c18",
+          "a91d25c81cbc4936a5298005b6b96c83:c18"
+        ],
+        "llm": "local_fallback"
+      },
+      {
+        "role": "user",
+        "content": "giám đốc bnk vinh là ai",
+        "created_at": "2026-06-16T10:10:29.868421+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "Tôi không biết từ ngữ cảnh được cung cấp.",
+        "created_at": "2026-06-16T10:10:29.868421+00:00",
+        "sources": [
+          "55389b4aef6a46c6b4dbab76306997e2:c1",
+          "402e902259a643febcba369f1712a331:c18",
+          "a91d25c81cbc4936a5298005b6b96c83:c18"
+        ],
+        "llm": "gemini"
+      },
+      {
+        "role": "user",
+        "content": "giám đốc bnk vinh là ai",
+        "created_at": "2026-06-16T10:10:35.528634+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "Gemini is not responding right now. Please try again in a moment. Based on approved documents: VISIONMISSIONCORE\nVALUES\nNơi để thuộc về\nI. I. Organization Chart\nBnK Solution\nCông ty Cổ phần Giải\nPháp BnK\nBnK Japan\nCông ty TNHH Phần\nMềm B&K Japan\nBnK Singapore\nCông ty TNHH Phần\nMềm B&K Singapore\nBnK Vinh\nĐịa điểm kinh doanh\nBnK Q3\nBnK HN\nĐịa điểm kinh doanh\nĐịa điểm kinh doanh\nBnK Vinh\nCông ty TNHH Phần Mềm\nB&K Vinh\nCEO\nHDQT\nExecutive Board\nTPS\n• Presales | New\nTechnology\n• Technical Excellent\n• Productivity with GenAI\nBU6\n• CIMB Group\n• LowCode HCM Site\n(OS, Neptune)\n• Site: HCM | Vinh\nKa",
+        "created_at": "2026-06-16T10:10:35.528634+00:00",
+        "sources": [
+          "55389b4aef6a46c6b4dbab76306997e2:c1",
+          "402e902259a643febcba369f1712a331:c18",
+          "a91d25c81cbc4936a5298005b6b96c83:c18"
+        ],
+        "llm": "local_fallback"
+      },
+      {
+        "role": "user",
+        "content": "giám đốc bnk vinh là ai",
+        "created_at": "2026-06-16T10:10:37.940951+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "Gemini is not responding right now. Please try again in a moment. Based on approved documents: VISIONMISSIONCORE\nVALUES\nNơi để thuộc về\nI. I. Organization Chart\nBnK Solution\nCông ty Cổ phần Giải\nPháp BnK\nBnK Japan\nCông ty TNHH Phần\nMềm B&K Japan\nBnK Singapore\nCông ty TNHH Phần\nMềm B&K Singapore\nBnK Vinh\nĐịa điểm kinh doanh\nBnK Q3\nBnK HN\nĐịa điểm kinh doanh\nĐịa điểm kinh doanh\nBnK Vinh\nCông ty TNHH Phần Mềm\nB&K Vinh\nCEO\nHDQT\nExecutive Board\nTPS\n• Presales | New\nTechnology\n• Technical Excellent\n• Productivity with GenAI\nBU6\n• CIMB Group\n• LowCode HCM Site\n(OS, Neptune)\n• Site: HCM | Vinh\nKa",
+        "created_at": "2026-06-16T10:10:37.940951+00:00",
+        "sources": [
+          "55389b4aef6a46c6b4dbab76306997e2:c1",
+          "402e902259a643febcba369f1712a331:c18",
+          "a91d25c81cbc4936a5298005b6b96c83:c18"
+        ],
+        "llm": "local_fallback"
+      },
+      {
+        "role": "user",
+        "content": "giám đốc bnk vinh là ai",
+        "created_at": "2026-06-16T10:10:39.577087+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "Gemini is not responding right now. Please try again in a moment. Based on approved documents: VISIONMISSIONCORE\nVALUES\nNơi để thuộc về\nI. I. Organization Chart\nBnK Solution\nCông ty Cổ phần Giải\nPháp BnK\nBnK Japan\nCông ty TNHH Phần\nMềm B&K Japan\nBnK Singapore\nCông ty TNHH Phần\nMềm B&K Singapore\nBnK Vinh\nĐịa điểm kinh doanh\nBnK Q3\nBnK HN\nĐịa điểm kinh doanh\nĐịa điểm kinh doanh\nBnK Vinh\nCông ty TNHH Phần Mềm\nB&K Vinh\nCEO\nHDQT\nExecutive Board\nTPS\n• Presales | New\nTechnology\n• Technical Excellent\n• Productivity with GenAI\nBU6\n• CIMB Group\n• LowCode HCM Site\n(OS, Neptune)\n• Site: HCM | Vinh\nKa",
+        "created_at": "2026-06-16T10:10:39.577087+00:00",
+        "sources": [
+          "55389b4aef6a46c6b4dbab76306997e2:c1",
+          "402e902259a643febcba369f1712a331:c18",
+          "a91d25c81cbc4936a5298005b6b96c83:c18"
+        ],
+        "llm": "local_fallback"
+      },
+      {
+        "role": "user",
+        "content": "giám đốc bnk vinh là ai",
+        "created_at": "2026-06-16T10:10:45.071134+00:00"
+      },
+      {
+        "role": "assistant",
+        "content": "Tôi không biết từ ngữ cảnh được cung cấp.",
+        "created_at": "2026-06-16T10:10:45.071134+00:00",
+        "sources": [
+          "55389b4aef6a46c6b4dbab76306997e2:c1",
+          "402e902259a643febcba369f1712a331:c18",
+          "a91d25c81cbc4936a5298005b6b96c83:c18"
+        ],
+        "llm": "gemini"
+      }
+    ],
+    "created_at": "2026-06-16T10:08:46.502718+00:00",
+    "updated_at": "2026-06-16T10:10:45.071134+00:00"
+  }
+]

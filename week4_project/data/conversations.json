@@ -1,0 +1,399 @@
+[
+  {
+    "question": "hi",
+    "answer": "I do not know from the indexed documents.",
+    "sources": []
+  },
+  {
+    "question": "hi",
+    "answer": "I do not know from the indexed documents.",
+    "sources": []
+  },
+  {
+    "question": "hi",
+    "answer": "I do not know from the indexed documents.",
+    "sources": []
+  },
+  {
+    "question": "hello",
+    "answer": "I do not know from the indexed documents.",
+    "sources": []
+  },
+  {
+    "question": "ưqeqw",
+    "answer": "I do not know from the indexed documents.",
+    "sources": []
+  },
+  {
+    "question": "hi",
+    "answer": "I do not know from the provided context.",
+    "sources": [
+      "bootcamp:week1",
+      "VPN.txt:c1",
+      "Z GIT Ubuntu.txt:c1"
+    ]
+  },
+  {
+    "question": "Ch?nh s?ch ngh? ph?p c?a BNK l? g??",
+    "answer": "ece055910764d75a2e885cdc6",
+    "sources": [
+      "6ece055910764d75a2e885cdc6408986:c1"
+    ]
+  },
+  {
+    "question": "hi",
+    "answer": "Gemini failed with ReadTimeout. I do not know from the indexed documents.",
+    "sources": []
+  },
+  {
+    "question": "hi",
+    "answer": "Hi! I am Bnk Chatbot. You can ask about BNK company documents or general questions.",
+    "sources": []
+  },
+  {
+    "question": "bạn là ai",
+    "answer": "Gemini is not responding right now. Please try again in a moment.",
+    "sources": []
+  },
+  {
+    "question": "b?n l? ai",
+    "answer": "Gemini is not responding right now. Please try again in a moment.",
+    "sources": []
+  },
+  {
+    "question": "bạn là ai",
+    "answer": "I am Bnk Chatbot, an internal assistant for BNK company documents. I can help answer questions about approved company policies, rules, procedures, and general questions.",
+    "sources": []
+  },
+  {
+    "question": "bạn là gì",
+    "answer": "I am Bnk Chatbot, an internal assistant for BNK company documents. I can help answer questions about approved company policies, rules, procedures, and general questions.",
+    "sources": []
+  },
+  {
+    "question": "1=1 = ?",
+    "answer": "**True** (or **1** in programming and logic).",
+    "sources": []
+  },
+  {
+    "question": "ai là tổng thống mỹ hiện tại",
+    "answer": "Tổng thống Mỹ hiện tại là **Joe Biden** (nhậm chức từ ngày 20/01/2021). Ông là vị Tổng thống thứ 46 của Hoa Kỳ.",
+    "sources": []
+  },
+  {
+    "question": "lịch thi đấu world cup hôm nay",
+    "answer": "Gemini is not responding right now. Please try again in a moment.",
+    "sources": []
+  },
+  {
+    "question": "lịch thi đấu world cup hôm nay",
+    "answer": "Hiện tại không có giải vô địch bóng đá thế giới (FIFA World Cup) nào đang",
+    "sources": []
+  },
+  {
+    "question": "lịch thi đấu world cup hôm nay",
+    "answer": "Hiện tại không có giải đấu FIFA World Cup (bóng đá nam/nữ) nào đang diễn",
+    "sources": []
+  },
+  {
+    "question": "who are you",
+    "answer": "I am Bnk Chatbot, an internal assistant for BNK company documents. I can help answer questions about approved company policies, rules, procedures, and general questions.",
+    "sources": []
+  },
+  {
+    "question": "chào bạn",
+    "answer": "Chào bạn! Mình có thể giúp gì cho bạn hôm nay?",
+    "sources": []
+  },
+  {
+    "question": "hôm nay là ngày bao nhiêu",
+    "answer": "Hôm nay là ngày **24 tháng 5 năm 2024** (Thứ Sáu).",
+    "sources": []
+  },
+  {
+    "question": "lịch thi đấu wc 2026",
+    "answer": "Lịch thi đấu tổng thể của vòng chung kết **FIFA World Cup 2026**",
+    "sources": []
+  },
+  {
+    "question": "là ?",
+    "answer": "\"Bạn muốn hỏi nghĩa của từ 'là', hay bạn đang viết thiếu câu hỏi?",
+    "sources": []
+  },
+  {
+    "question": "hom nay la ngay bao nhieu",
+    "answer": "Hôm nay là ngày **24 tháng 5 năm 2024**.",
+    "sources": []
+  },
+  {
+    "question": "chao ban",
+    "answer": "Chào bạn! Mình có thể giúp gì cho bạn hôm nay?",
+    "sources": []
+  },
+  {
+    "question": "hom nay la ngay bao nhieu",
+    "answer": "Hôm nay là **Thứ Sáu, ngày 24 tháng 5 năm 2024** (dương lịch). \n\nNhằm ngày **17 tháng 4 năm Giáp Thìn** (âm lịch).",
+    "sources": []
+  },
+  {
+    "question": "hom nay la ngay bao nhieu",
+    "answer": "Xin chào! Hôm nay là **Thứ Ba, ngày 16 tháng 6 năm 2026**. \n\nTôi là Bnk Chatbot, tôi có thể giúp gì thêm cho bạn trong ngày hôm nay không?",
+    "sources": []
+  },
+  {
+    "question": "bạn là ai",
+    "answer": "I am Bnk Chatbot, an internal assistant for BNK company documents. I can help answer questions about approved company policies, rules, procedures, and general questions.",
+    "sources": []
+  },
+  {
+    "question": "hôm nay là ngày bao nhiêu",
+    "answer": "Hôm nay là **Thứ Ba, ngày 16 tháng 6 năm 2026**. \n\nTôi có thể giúp gì cho bạn hôm nay liên quan đến các tài liệu, quy trình hay chính sách của công ty BNK không?",
+    "sources": []
+  },
+  {
+    "question": "sơn tùng mtp là ai",
+    "answer": "**Sơn Tùng M-TP** (tên thật là **Nguyễn Thanh Tùng**, sinh ngày 5 tháng 7 năm 1994 tại Thái Bình) là một nam ca sĩ, nhạc sĩ, diễn viên và nhà sản xuất âm nhạc nổi tiếng hàng đầu tại Việt Nam. Anh thường được người hâm mộ và truyền thông mệnh danh là \"Hoàng tử V-pop\" nhờ những đóng góp lớn và sức ảnh hưởng mạnh mẽ đến nền âm nhạc đương đại Việt Nam.\n\nDưới đây là một số thông tin nổi bật về Sơn Tùng M-TP:\n\n*   **Sự nghiệp âm nhạc:** Anh bắt đầu hoạt động trong giới underground từ thời học sinh và nhanh chóng trở nên nổi tiếng vào năm 2011 - 2012 với ca khúc tự sáng tác *\"Cơn mưa ngang qua\"*. Tiếp sau đó là hàng loạt bản hit quốc dân như *\"Em của ngày hôm qua\"*, *\"Chắc ai đó sẽ về\"*, *\"Lạc trôi\"*, *\"Nơi này có anh\"*, *\"Chạy ngay đi\"*, và *\"Chúng ta của tương lai\"*.\n*   **Dấu ấn quốc tế:** Năm 2019, Sơn Tùng M-TP gây tiếng vang lớn khi hợp tác với rapper huyền thoại người Mỹ Snoop Dogg trong ca khúc *\"Hãy trao cho anh\"* (Give It to Me). Ca khúc này đã giúp anh đạt được nhiều kỷ lục trên YouTube và lọt vào một số bảng xếp hạng âm nhạc quốc tế uy tín như Billboard.\n*   **Kinh doanh và quản lý:** Anh là người sáng lập kiêm Chủ tịch của công ty giải trí **M-TP Entertainment**, chuyên quản lý các hoạt động nghệ thuật của chính anh và từng quản lý một số nghệ sĩ, tài năng trẻ khác.\n*   **Điện ảnh:** Sơn Tùng M-TP từng đảm nhận vai nam chính trong bộ phim điện ảnh *\"Chàng trai năm ấy\"* (2014) của đạo diễn Quang Huy. Vai diễn này đã mang về cho anh giải thưởng \"Diễn viên trẻ triển vọng\" tại Giải Cánh diều vàng 2014.\n*   **Thành tích:** Trong suốt sự nghiệp, anh đã nhận được rất nhiều giải thưởng danh giá như giải Âm nhạc Cống hiến, giải MTV EMA (Nghệ sĩ Đông Nam Á xuất sắc nhất), Làn Sóng Xanh, và là nghệ sĩ Việt Nam đầu tiên sở hữu kênh YouTube đạt nút kim cương.\n\nNếu bạn cần tìm hiểu thêm thông tin gì khác hoặc có câu hỏi nào liên quan đến các quy trình, tài liệu của công ty BNK, hãy cứ cho tôi biết nhé!",
+    "sources": []
+  },
+  {
+    "question": "bài hát mới nhất của anh ấy là gì",
+    "answer": "Tính đến thời điểm hiện tại (tháng 6 năm 2026), bài hát chính thức mới nhất và tạo được tiếng vang lớn nhất của Sơn Tùng M-TP là ca khúc **\"Đừng làm trái tim anh đau\"**, được ra mắt vào ngày **8 tháng 6 năm 2024**. \n\nDưới đây là một số thông tin thú vị về bản hit này:\n\n* **Phong cách âm nhạc:** Khác với những giai điệu trầm buồn hay cá tính mạnh mẽ trước đó, *\"Đừng làm trái tim anh đau\"* là một bản Pop vô cùng ngọt ngào, vui tươi, mang năng lượng tích cực và dễ thương về tình yêu.\n* **Nội dung MV:** MV kể về câu chuyện của một anh chàng nhân viên văn phòng có cuộc sống lặp đi lặp lại tẻ nhạt cho đến khi gặp được \"nàng thơ\" của đời mình. Bạn diễn đóng cặp cùng Sơn Tùng M-TP trong MV này là **Pimtha** – một hot girl, diễn viên vô cùng nổi tiếng và được yêu thích tại Thái Lan.\n* **Thành tích nổi bật:** Ngay sau khi ra mắt, ca khúc đã nhanh chóng đạt Top 1 Trending YouTube Việt Nam, lọt vào bảng xếp hạng của nhiều nền tảng nhạc số lớn và tạo nên một trào lưu biến hình, nhảy cover cực kỳ rầm rộ trên TikTok.\n\nTrước đó, vào tháng 3 năm 2024, anh cũng đã cho ra mắt ca khúc **\"Chúng ta của tương lai\"** (tiếp nối câu chuyện của bản hit *\"Chúng ta của hiện tại\"* năm 2020) với sự tham gia của diễn viên độc quyền Hải Tú.\n\nNếu bạn cần thêm thông tin gì khác hoặc có câu hỏi nào liên quan đến các quy trình, tài liệu của công ty BNK, hãy cứ cho tôi biết nhé!",
+    "sources": []
+  },
+  {
+    "question": "Khá bảnh là ai?",
+    "answer": "**Khá Bảnh** (tên thật là **Ngô Bá Khá**, sinh ngày 27 tháng 11 năm 1993 tại Bắc Ninh) là một cựu hiện tượng mạng xã hội, YouTuber và là một nhân vật từng gây ra nhiều tranh cãi tại Việt Nam, thường được truyền thông nhắc đến với danh xưng \"giang hồ mạng\". \n\nDưới đây là một số thông tin chi tiết về nhân vật này:\n\n* **Sự nổi tiếng trên mạng xã hội (giai đoạn 2018 - 2019):** Khá Bảnh bắt đầu thu hút sự chú ý lớn của cộng đồng mạng thông qua các video livestream, clip ngắn chia sẻ về cuộc sống của giới \"giang hồ\", những phát ngôn ngông cuồng, kiểu tóc mullet đặc trưng và điệu nhảy \"múa quạt\" trên nền nhạc Vinahouse. Kênh YouTube của Khá Bảnh từng đạt gần 2 triệu lượt đăng ký và có lượng tương tác rất cao trước khi bị xóa bỏ.\n* **Tác động xã hội:** Lối sống ăn chơi, bạo lực, nói tục chửi thề và những hành động thách thức pháp luật của Khá Bảnh (như dàn hàng ngang chụp ảnh trên đường cao tốc, đập phá và đốt xe máy để quay clip...) đã bị dư luận và các cơ quan truyền thông lên án gay gắt vì gây ảnh hưởng tiêu cực đến nhận thức, hành vi của một bộ phận giới trẻ, đặc biệt là học sinh, sinh viên thời điểm đó.\n* **Vấn đề pháp lý:** Tháng 4 năm 2019, Ngô Bá Khá bị Công an tỉnh Bắc Ninh bắt giữ vì hành vi đánh bạc và tổ chức đánh bạc dưới hình thức ghi lô, đề. Đến tháng 11 năm 2019, Tòa án nhân dân thị xã Từ Sơn (Bắc Ninh) đã tuyên phạt Khá Bảnh **10 năm 6 tháng tù giam**.\n* **Tình trạng hiện tại (tính đến năm 2026):** Ngô Bá Khá vẫn đang trong quá trình chấp hành án phạt tù tại trại giam.\n\nNếu bạn có câu hỏi nào khác hoặc cần hỗ trợ về các quy trình, quy định và tài liệu của công ty BNK, hãy cứ cho tôi biết nhé!",
+    "sources": []
+  },
+  {
+    "question": "giám đốc bnk là ai",
+    "answer": "Dựa vào ngữ cảnh được cung cấp, tôi không biết thông tin này (I do not know from the provided context). \n\nNgữ cảnh chỉ đề cập đến sơ đồ tổ chức có chức danh \"CEO\", \"HDQT\" (Hội đồng quản trị) và \"Executive Board\" của BnK chứ không nêu rõ tên cụ thể của Giám đốc hay CEO là ai [55389b4aef6a46c6b4dbab76306997e2:c1].",
+    "sources": [
+      "55389b4aef6a46c6b4dbab76306997e2:c1"
+    ]
+  },
+  {
+    "question": "CEO của bnk hà nội",
+    "answer": "Dựa vào ngữ cảnh được cung cấp, tôi không biết thông tin này (I do not know from the provided context). Ngữ cảnh chỉ đề cập đến \"BnK HN\" là một địa điểm kinh doanh trong sơ đồ tổ chức của BnK chứ không cung cấp thông tin chi tiết về người giữ chức vụ CEO của BnK Hà Nội [55389b4aef6a46c6b4dbab76306997e2:c1].",
+    "sources": [
+      "55389b4aef6a46c6b4dbab76306997e2:c1"
+    ]
+  },
+  {
+    "question": "hiện tại đang có bao nhiêu tài liệu ",
+    "answer": "Dựa vào ngữ cảnh được cung cấp, tôi không biết thông tin này (I do not know from the provided context). Ngữ cảnh không đề cập đến số lượng tài liệu hiện có.",
+    "sources": [
+      "55389b4aef6a46c6b4dbab76306997e2:c1",
+      "55389b4aef6a46c6b4dbab76306997e2:c31"
+    ]
+  },
+  {
+    "question": "CEO hà nội là ai?",
+    "answer": "I do not know from the provided context.",
+    "sources": [
+      "55389b4aef6a46c6b4dbab76306997e2:c1"
+    ]
+  },
+  {
+    "question": "CEO hà nội là ai?",
+    "answer": "Tôi không biết từ ngữ cảnh được cung cấp.",
+    "sources": [
+      "55389b4aef6a46c6b4dbab76306997e2:c1",
+      "55389b4aef6a46c6b4dbab76306997e2:c5",
+      "55389b4aef6a46c6b4dbab76306997e2:c11"
+    ]
+  },
+  {
+    "question": "CEO hà nội là ai?",
+    "answer": "Dựa trên thông tin được cung cấp, CEO của BnK Hà Nội (BnK HN) là bà **NGUYEN THI THUY VAN** (Mrs. NGUYEN THI THUY VAN). Quyết định bổ nhiệm này có hiệu lực từ ngày 1 tháng 1 năm 2025 [Source: 55389b4aef6a46c6b4dbab76306997e2:c8].",
+    "sources": [
+      "55389b4aef6a46c6b4dbab76306997e2:c8",
+      "55389b4aef6a46c6b4dbab76306997e2:c9",
+      "55389b4aef6a46c6b4dbab76306997e2:c16"
+    ]
+  },
+  {
+    "question": "CEO hà nội là ai?",
+    "answer": "Dựa trên thông tin được cung cấp, CEO của BnK Hà Nội (BnK HN) là **Bà NGUYEN THI THUY VAN** (Mrs. NGUYEN THI THUY VAN) [Source: 55389b4aef6a46c6b4dbab76306997e2:c8]. \n\nQuyết định bổ nhiệm này có hiệu lực từ ngày 1 tháng 1 năm 2025. Bên cạnh chức danh CEO của BnK HN, bà còn đảm nhận các vị trí khác bao gồm Giám đốc APO (Director of APO) và Thành viên Ban điều hành (Member of the executive board) [Source: 55389b4aef6a46c6b4dbab76306997e2:c8].",
+    "sources": [
+      "55389b4aef6a46c6b4dbab76306997e2:c8",
+      "55389b4aef6a46c6b4dbab76306997e2:c9",
+      "55389b4aef6a46c6b4dbab76306997e2:c16"
+    ]
+  },
+  {
+    "question": "CEO hà nội là ai ?",
+    "answer": "Dựa trên thông tin được cung cấp, CEO của BnK Hà Nội (BnK HN) là **Bà NGUYEN THI THUY VAN** (Mrs. NGUYEN THI THUY VAN). \n\nBà được bổ nhiệm vào chức vụ này kể từ ngày 1 tháng 1 năm 2025, đồng thời đảm nhận các vai trò khác như Giám đốc APO (Director of APO) và Thành viên Ban điều hành (Member of the executive board) [Source: 55389b4aef6a46c6b4dbab76306997e2:c8].",
+    "sources": [
+      "55389b4aef6a46c6b4dbab76306997e2:c8",
+      "55389b4aef6a46c6b4dbab76306997e2:c9",
+      "55389b4aef6a46c6b4dbab76306997e2:c16"
+    ]
+  },
+  {
+    "question": "trong ban lãnh đạo có ai tên Hiệp không?",
+    "answer": "Dựa trên ngữ cảnh được cung cấp, tôi không biết có ai tên Hiệp trong ban lãnh đạo hay không (I do not know from the provided context). \n\nTrong các tài liệu hiện tại chỉ đề cập đến một số nhân sự ban lãnh đạo và quản lý như:\n* **Bà NGUYEN THI THUY VAN** (CEO BnK Hà Nội, Giám đốc APO, Thành viên Ban điều hành) [Source: 55389b4aef6a46c6b4dbab76306997e2:c8 từ lịch sử trò chuyện].\n* **Ông TRAN HONG TAI** (Giám đốc AI R&D và Product tại APO, Thành viên Ban điều hành) [Source: 55389b4aef6a46c6b4dbab76306997e2:c11].\n* **Ông NGUYEN QUOC HUNG** (Trưởng bộ phận TPS) [Source: 55389b4aef6a46c6b4dbab76306997e2:c20].",
+    "sources": [
+      "55389b4aef6a46c6b4dbab76306997e2:c11",
+      "55389b4aef6a46c6b4dbab76306997e2:c3",
+      "55389b4aef6a46c6b4dbab76306997e2:c20"
+    ]
+  },
+  {
+    "question": "công ty có bao nhiêu chi nhánh",
+    "answer": "Dựa trên ngữ cảnh được cung cấp, tôi không biết chính xác công ty có bao nhiêu chi nhánh (I do not know from the provided context). \n\nTuy nhiên, dựa vào sơ đồ tổ chức và thông tin nhân sự trong tài liệu, BnK Solution có các công ty thành viên, văn phòng và địa điểm kinh doanh sau:\n\n* **BnK Japan** (Công ty TNH",
+    "sources": [
+      "55389b4aef6a46c6b4dbab76306997e2:c1",
+      "55389b4aef6a46c6b4dbab76306997e2:c12",
+      "55389b4aef6a46c6b4dbab76306997e2:c21"
+    ]
+  },
+  {
+    "question": "công ty có bao nhiêu chi nhánh",
+    "answer": "Gemini is not responding right now. Please try again in a moment. Based on approved documents: VISIONMISSIONCORE\nVALUES\nNơi để thuộc về\nI. I. Organization Chart\nBnK Solution\nCông ty Cổ phần Giải\nPháp BnK\nBnK Japan\nCông ty TNHH Phần\nMềm B&K Japan\nBnK Singapore\nCông ty TNHH Phần\nMềm B&K Singapore\nBnK Vinh\nĐịa điểm kinh doanh\nBnK Q3\nBnK HN\nĐịa điểm kinh doanh\nĐịa điểm kinh doanh\nBnK Vinh\nCông ty TNHH Phần Mềm\nB&K Vinh\nCEO\nHDQT\nExecutive Board\nTPS\n• Presales | New\nTechnology\n• Technical Excellent\n• Productivity with GenAI\nBU6\n• CIMB Group\n• LowCode HCM Site\n(OS, Neptune)\n• Site: HCM | Vinh\nKa",
+    "sources": [
+      "55389b4aef6a46c6b4dbab76306997e2:c1",
+      "55389b4aef6a46c6b4dbab76306997e2:c12",
+      "55389b4aef6a46c6b4dbab76306997e2:c21"
+    ]
+  },
+  {
+    "question": "công ty có bao nhiêu chi nhánh",
+    "answer": "Dựa trên ngữ cảnh được cung cấp, tôi không biết chính xác công ty có bao nhiêu chi nhánh (I do not know from the provided context). \n\nTuy nhiên, theo sơ đồ tổ chức của **BnK Solution** (Công ty Cổ phần Giải Pháp BnK), công ty có các công ty thành viên và địa điểm kinh doanh sau:\n\n* **BnK Japan** (Công ty TNHH Phần Mềm B&K Japan)\n* **BnK Singapore** (Công ty TNHH Phần Mềm B&K Singapore)\n* **BnK Vinh** (Địa điểm kinh doanh / Công ty TNHH Phần Mềm B&K Vinh)\n* **BnK Q3** (Địa điểm kinh doanh)\n* **BnK HN** (Địa điểm kinh doanh)\n\n[Source: 55389b4aef6a46c6b4dbab76306997e2:c1]",
+    "sources": [
+      "55389b4aef6a46c6b4dbab76306997e2:c1",
+      "55389b4aef6a46c6b4dbab76306997e2:c12",
+      "55389b4aef6a46c6b4dbab76306997e2:c21"
+    ]
+  },
+  {
+    "question": "CEO hà nội là ai?",
+    "answer": "Theo thông tin được cung cấp, CEO của BnK HN (Hà Nội) là **bà NGUYEN THI THUY VAN** (Nguyễn Thị Thủy Vân). \n\nBà được bổ nhiệm vào vị trí này từ ngày 1 tháng 1 năm 2025 với các chức vụ:\n* CEO của BnK HN\n* Giám đốc APO (Director of APO)\n* Thành viên ban điều hành (Member of the executive board)\n\nTại văn phòng Hà Nội, bà chịu trách nhiệm cho các công việc sau:\n* Làm điều phối viên nội bộ và đại diện pháp lý tại văn phòng Hà Nội.\n* Quản lý quan hệ đối ngoại, gắn kết và phát triển tài năng.\n* Giám sát quản lý cơ sở vật chất và cơ sở hạ tầng.\n* Hỗ trợ chiến lược và phát triển kinh doanh.",
+    "sources": [
+      "55389b4aef6a46c6b4dbab76306997e2:c8",
+      "55389b4aef6a46c6b4dbab76306997e2:c9",
+      "55389b4aef6a46c6b4dbab76306997e2:c16"
+    ]
+  },
+  {
+    "question": "CEO hà nội là ai?",
+    "answer": "Dựa trên thông tin được cung cấp, CEO của BnK Hà Nội (BnK HN) là bà **NGUYEN THI THUY VAN** (bổ nhiệm có hiệu lực từ ngày 1 tháng 1 năm 2025). \n\nBên cạnh chức danh CEO của BnK HN, bà còn đảm nhận các vị trí khác bao gồm Giám đốc APO (Director of APO) và Thành viên Ban điều hành (Member of the executive board).",
+    "sources": [
+      "55389b4aef6a46c6b4dbab76306997e2:c8",
+      "55389b4aef6a46c6b4dbab76306997e2:c9",
+      "55389b4aef6a46c6b4dbab76306997e2:c16"
+    ]
+  },
+  {
+    "question": "HCD là vị trí nào ?",
+    "answer": "Dựa trên ngữ cảnh được cung cấp, **HCD** là viết tắt của **Human Development Capital Department** (Bộ phận Phát triển Nguồn nhân lực). \n\nVị trí đứng đầu bộ phận này là **Head of the Human Development Capital Department (HCD)** (Trưởng bộ phận Phát triển Nguồn nhân lực), hiện do **Bà LE PHUONG THAO** đảm nhiệm kể từ ngày 1 tháng 1 năm 2025.\n\nBộ phận HCD chịu trách nhiệm về các mảng công việc chính sau đây:\n* **Recruitment (Tuyển dụng):** Tiếp thị tuyển dụng, quản lý đối tác, xây dựng mô tả công việc, tổ chức phỏng vấn và tiếp nhận nhân sự mới (onboard).\n* **General Affairs (Hành chính tổng hợp):** Quản lý vận hành văn phòng và tài sản công ty.\n* **Human Resource (Nhân sự)**\n* **Training (Đào tạo)**",
+    "sources": [
+      "55389b4aef6a46c6b4dbab76306997e2:c26",
+      "55389b4aef6a46c6b4dbab76306997e2:c2"
+    ]
+  },
+  {
+    "question": "chào bạn",
+    "answer": "Xin chào bạn! Tôi là Bnk Chatbot, trợ lý ảo của bạn. Hôm nay là Thứ Ba, ngày 16 tháng 6 năm 2026. \n\nTôi có thể giúp gì cho bạn hôm nay? Bạn có thể hỏi tôi về các thông tin liên quan đến dịch vụ ngân hàng, tài khoản, thẻ, các khoản vay, hoặc bất kỳ thắc mắc nào khác. Rất vui được hỗ trợ bạn!",
+    "sources": []
+  },
+  {
+    "question": "Chính sách nghỉ phép thế nào?",
+    "answer": "Chào bạn, dưới đây là thông tin chi tiết về chính sách nghỉ phép của công ty dựa trên các quy định hiện hành:\n\n### 1. Quy trình và hình thức nghỉ phép\n* **Hình thức nghỉ:** Cá nhân có thể nghỉ hưởng lương hoặc không hưởng lương tùy theo nhu cầu và quy định.\n* **Quy trình xin nghỉ:** \n  * Tất cả các trường hợp xin nghỉ phép, nghỉ ốm, nghỉ thai sản, nghỉ việc riêng (dù có hưởng lương hay không",
+    "sources": [
+      "9cdcb9b7e9b843ca9c6e43b9ad3e1fa8:c3",
+      "ef5fe8cf9cdd48ae8d2cc1e366defaa3:c3",
+      "402e902259a643febcba369f1712a331:c11"
+    ]
+  },
+  {
+    "question": "Quy trình xin nghỉ phép thế nào?",
+    "answer": "Gemini is not responding right now. Please try again in a moment. Based on approved documents: Ỉ PHÉP\no Chấm dứt Hợp đồng lao động từ ngày 01 đến ngày 15 hàng tháng: không có ngày phép tháng\nđó.\no Chấm dứt Hợp đồng lao động từ ngày 16 đến cuối tháng: tính 1 ngày phép.\n▪ Người lao động có thể tạm ứng sử dụng trước các ngày phép năm trong quý nếu không ảnh hưởng\nđến công việc.\n▪ Nhân viên xin nghỉ phép, nghỉ ốm, nghỉ thai sản, nghỉ việc riêng có hưởng lương hay không hưởng\nlương đều phải làm đơn xin nghỉ phép trên phần mềm My BnK và thông báo cho bộ phận HR/GA\ntrường hợp nghỉ theo chế độ BH",
+    "sources": [
+      "402e902259a643febcba369f1712a331:c11",
+      "a91d25c81cbc4936a5298005b6b96c83:c11",
+      "9cdcb9b7e9b843ca9c6e43b9ad3e1fa8:c3"
+    ]
+  },
+  {
+    "question": "Quy trình xin nghỉ phép thế nào?",
+    "answer": "Gemini is not responding right now. Please try again in a moment. Based on approved documents: Ỉ PHÉP\no Chấm dứt Hợp đồng lao động từ ngày 01 đến ngày 15 hàng tháng: không có ngày phép tháng\nđó.\no Chấm dứt Hợp đồng lao động từ ngày 16 đến cuối tháng: tính 1 ngày phép.\n▪ Người lao động có thể tạm ứng sử dụng trước các ngày phép năm trong quý nếu không ảnh hưởng\nđến công việc.\n▪ Nhân viên xin nghỉ phép, nghỉ ốm, nghỉ thai sản, nghỉ việc riêng có hưởng lương hay không hưởng\nlương đều phải làm đơn xin nghỉ phép trên phần mềm My BnK và thông báo cho bộ phận HR/GA\ntrường hợp nghỉ theo chế độ BH",
+    "sources": [
+      "402e902259a643febcba369f1712a331:c11",
+      "a91d25c81cbc4936a5298005b6b96c83:c11",
+      "9cdcb9b7e9b843ca9c6e43b9ad3e1fa8:c3"
+    ]
+  },
+  {
+    "question": "Quy trình xin nghỉ phép thế nào?",
+    "answer": "Chào bạn, quy trình xin nghỉ phép tại công ty được thực hiện theo các bước cụ thể dưới đây:\n\n1. **Tạo yêu cầu nghỉ phép:**\n   * Khi có nhu cầu xin nghỉ (bao gồm nghỉ phép, nghỉ ốm, nghỉ thai sản, nghỉ việc riêng có hưởng lương hay không hưởng lương), bạn cần làm đơn xin nghỉ phép (tạo *leave request*) trên phần mềm **My BnK**.\n\n2. **Phê duyệt yêu cầu:**\n   * Yêu cầu nghỉ phép của bạn cần được phê duyệt bởi quản lý trực tiếp (PM), BUL hoặc trưởng phòng ban.\n\n3. **Thông báo cho bộ phận nhân sự (nếu có):**\n   * Đối với các trường hợp nghỉ theo chế độ Bảo hiểm (BH), bạn cần thông báo cho bộ phận HR/GA để được hỗ trợ giải quyết.\n\n*Lưu ý thêm:* Bạn có thể tạm ứng sử dụng trước các ngày phép năm trong quý nếu việc này không gây ảnh hưởng đến công việc chung.",
+    "sources": [
+      "402e902259a643febcba369f1712a331:c11",
+      "a91d25c81cbc4936a5298005b6b96c83:c11",
+      "9cdcb9b7e9b843ca9c6e43b9ad3e1fa8:c3"
+    ]
+  },
+  {
+    "question": "giám đốc bnk vinh là ai",
+    "answer": "Gemini is not responding right now. Please try again in a moment. Based on approved documents: VISIONMISSIONCORE\nVALUES\nNơi để thuộc về\nI. I. Organization Chart\nBnK Solution\nCông ty Cổ phần Giải\nPháp BnK\nBnK Japan\nCông ty TNHH Phần\nMềm B&K Japan\nBnK Singapore\nCông ty TNHH Phần\nMềm B&K Singapore\nBnK Vinh\nĐịa điểm kinh doanh\nBnK Q3\nBnK HN\nĐịa điểm kinh doanh\nĐịa điểm kinh doanh\nBnK Vinh\nCông ty TNHH Phần Mềm\nB&K Vinh\nCEO\nHDQT\nExecutive Board\nTPS\n• Presales | New\nTechnology\n• Technical Excellent\n• Productivity with GenAI\nBU6\n• CIMB Group\n• LowCode HCM Site\n(OS, Neptune)\n• Site: HCM | Vinh\nKa",
+    "sources": [
+      "55389b4aef6a46c6b4dbab76306997e2:c1",
+      "402e902259a643febcba369f1712a331:c18",
+      "a91d25c81cbc4936a5298005b6b96c83:c18"
+    ]
+  },
+  {
+    "question": "giám đốc bnk vinh là ai",
+    "answer": "Tôi không biết từ ngữ cảnh được cung cấp.",
+    "sources": [
+      "55389b4aef6a46c6b4dbab76306997e2:c1",
+      "402e902259a643febcba369f1712a331:c18",
+      "a91d25c81cbc4936a5298005b6b96c83:c18"
+    ]
+  },
+  {
+    "question": "giám đốc bnk vinh là ai",
+    "answer": "Gemini is not responding right now. Please try again in a moment. Based on approved documents: VISIONMISSIONCORE\nVALUES\nNơi để thuộc về\nI. I. Organization Chart\nBnK Solution\nCông ty Cổ phần Giải\nPháp BnK\nBnK Japan\nCông ty TNHH Phần\nMềm B&K Japan\nBnK Singapore\nCông ty TNHH Phần\nMềm B&K Singapore\nBnK Vinh\nĐịa điểm kinh doanh\nBnK Q3\nBnK HN\nĐịa điểm kinh doanh\nĐịa điểm kinh doanh\nBnK Vinh\nCông ty TNHH Phần Mềm\nB&K Vinh\nCEO\nHDQT\nExecutive Board\nTPS\n• Presales | New\nTechnology\n• Technical Excellent\n• Productivity with GenAI\nBU6\n• CIMB Group\n• LowCode HCM Site\n(OS, Neptune)\n• Site: HCM | Vinh\nKa",
+    "sources": [
+      "55389b4aef6a46c6b4dbab76306997e2:c1",
+      "402e902259a643febcba369f1712a331:c18",
+      "a91d25c81cbc4936a5298005b6b96c83:c18"
+    ]
+  },
+  {
+    "question": "giám đốc bnk vinh là ai",
+    "answer": "Gemini is not responding right now. Please try again in a moment. Based on approved documents: VISIONMISSIONCORE\nVALUES\nNơi để thuộc về\nI. I. Organization Chart\nBnK Solution\nCông ty Cổ phần Giải\nPháp BnK\nBnK Japan\nCông ty TNHH Phần\nMềm B&K Japan\nBnK Singapore\nCông ty TNHH Phần\nMềm B&K Singapore\nBnK Vinh\nĐịa điểm kinh doanh\nBnK Q3\nBnK HN\nĐịa điểm kinh doanh\nĐịa điểm kinh doanh\nBnK Vinh\nCông ty TNHH Phần Mềm\nB&K Vinh\nCEO\nHDQT\nExecutive Board\nTPS\n• Presales | New\nTechnology\n• Technical Excellent\n• Productivity with GenAI\nBU6\n• CIMB Group\n• LowCode HCM Site\n(OS, Neptune)\n• Site: HCM | Vinh\nKa",
+    "sources": [
+      "55389b4aef6a46c6b4dbab76306997e2:c1",
+      "402e902259a643febcba369f1712a331:c18",
+      "a91d25c81cbc4936a5298005b6b96c83:c18"
+    ]
+  },
+  {
+    "question": "giám đốc bnk vinh là ai",
+    "answer": "Gemini is not responding right now. Please try again in a moment. Based on approved documents: VISIONMISSIONCORE\nVALUES\nNơi để thuộc về\nI. I. Organization Chart\nBnK Solution\nCông ty Cổ phần Giải\nPháp BnK\nBnK Japan\nCông ty TNHH Phần\nMềm B&K Japan\nBnK Singapore\nCông ty TNHH Phần\nMềm B&K Singapore\nBnK Vinh\nĐịa điểm kinh doanh\nBnK Q3\nBnK HN\nĐịa điểm kinh doanh\nĐịa điểm kinh doanh\nBnK Vinh\nCông ty TNHH Phần Mềm\nB&K Vinh\nCEO\nHDQT\nExecutive Board\nTPS\n• Presales | New\nTechnology\n• Technical Excellent\n• Productivity with GenAI\nBU6\n• CIMB Group\n• LowCode HCM Site\n(OS, Neptune)\n• Site: HCM | Vinh\nKa",
+    "sources": [
+      "55389b4aef6a46c6b4dbab76306997e2:c1",
+      "402e902259a643febcba369f1712a331:c18",
+      "a91d25c81cbc4936a5298005b6b96c83:c18"
+    ]
+  },
+  {
+    "question": "giám đốc bnk vinh là ai",
+    "answer": "Tôi không biết từ ngữ cảnh được cung cấp.",
+    "sources": [
+      "55389b4aef6a46c6b4dbab76306997e2:c1",
+      "402e902259a643febcba369f1712a331:c18",
+      "a91d25c81cbc4936a5298005b6b96c83:c18"
+    ]
+  },
+  {
+    "question": "Công ty có những chính sách nào?",
+    "answer": "Gemini is not responding right now. Please try again in a moment. Based on approved documents: các Phòng Ban có liên quan có\ntrách nhiệm thực hiện chính sách này.\n11. Hiệu lực: Chính sách này có hiệu lực từ ngày ban hành cho đến khi có văn bản khác thay\nthế.",
+    "sources": [
+      "44fbab3331404322bf48bef727d3ff5a:c12",
+      "9c14eee8f6ae4475b873f8a094ffbd18:c12",
+      "402e902259a643febcba369f1712a331:c27"
+    ]
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "question": "What does Week 3 focus on?",
+    "answer": "Based on the retrieved context, Week 3 focuses on LLM and RAG System. Learners study prompt engineering, embeddings, vector database, cosine similarity, retrieval, answer generation, LangChain, and RAG evaluation. This answers the question: What does Week 3 focus on?",
+    "sources": [
+      "week3:c1",
+      "week1:c1"
+    ],
+    "contexts": [
+      {
+        "chunk_id": "week3:c1",
+        "source": "week3",
+        "text": "Week 3 focuses on LLM and RAG System. Learners study prompt engineering, embeddings, vector database, cosine similarity, retrieval, answer generation, LangChain, and RAG evaluation.",
+        "score": 0.2315
+      },
+      {
+        "chunk_id": "week1:c1",
+        "source": "week1",
+        "text": "Week 1 focuses on Python Foundation. Learners practice syntax, data types, functions, loops, file handling, pandas, regex, API calls, pip, venv, and dotenv.",
+        "score": 0.1703
+      }
+    ],
+    "evaluation": {
+      "has_context": true,
+      "has_sources": true,
+      "answer_length": 267,
+      "top_score": 0.2315
+    }
+  },
+  {
+    "question": "What should learners build in Week 4?",
+    "answer": "Based on the retrieved context, Week 4 focuses on building and demoing a complete local AI Chatbot. Learners build FastAPI backend, Streamlit chat UI, upload flow, OCR to RAG pipeline, citations, testing, and local demo. This answers the question: What should learners build in Week 4?",
+    "sources": [
+      "week4:c1",
+      "week1:c1"
+    ],
+    "contexts": [
+      {
+        "chunk_id": "week4:c1",
+        "source": "week4",
+        "text": "Week 4 focuses on building and demoing a complete local AI Chatbot. Learners build FastAPI backend, Streamlit chat UI, upload flow, OCR to RAG pipeline, citations, testing, and local demo.",
+        "score": 0.2593
+      },
+      {
+        "chunk_id": "week1:c1",
+        "source": "week1",
+        "text": "Week 1 focuses on Python Foundation. Learners practice syntax, data types, functions, loops, file handling, pandas, regex, API calls, pip, venv, and dotenv.",
+        "score": 0.1576
+      }
+    ],
+    "evaluation": {
+      "has_context": true,
+      "has_sources": true,
+      "answer_length": 285,
+      "top_score": 0.2593
+    }
+  },
+  {
+    "question": "Which week teaches OCR?",
+    "answer": "Based on the retrieved context, Week 2 focuses on AI Architecture and OCR. Learners draw system architecture, process images and PDFs, extract text, clean OCR output, and chunk text for RAG. This answers the question: Which week teaches OCR?",
+    "sources": [
+      "week2:c1",
+      "week4:c1"
+    ],
+    "contexts": [
+      {
+        "chunk_id": "week2:c1",
+        "source": "week2",
+        "text": "Week 2 focuses on AI Architecture and OCR. Learners draw system architecture, process images and PDFs, extract text, clean OCR output, and chunk text for RAG.",
+        "score": 0.2433
+      },
+      {
+        "chunk_id": "week4:c1",
+        "source": "week4",
+        "text": "Week 4 focuses on building and demoing a complete local AI Chatbot. Learners build FastAPI backend, Streamlit chat UI, upload flow, OCR to RAG pipeline, citations, testing, and local demo.",
+        "score": 0.1715
+      }
+    ],
+    "evaluation": {
+      "has_context": true,
+      "has_sources": true,
+      "answer_length": 241,
+      "top_score": 0.2433
+    }
+  },
+  {
+    "question": "What Python skills are learned in Week 1?",
+    "answer": "Based on the retrieved context, Week 1 focuses on Python Foundation. Learners practice syntax, data types, functions, loops, file handling, pandas, regex, API calls, pip, venv, and dotenv. This answers the question: What Python skills are learned in Week 1?",
+    "sources": [
+      "week1:c1",
+      "week3:c1"
+    ],
+    "contexts": [
+      {
+        "chunk_id": "week1:c1",
+        "source": "week1",
+        "text": "Week 1 focuses on Python Foundation. Learners practice syntax, data types, functions, loops, file handling, pandas, regex, API calls, pip, venv, and dotenv.",
+        "score": 0.2212
+      },
+      {
+        "chunk_id": "week3:c1",
+        "source": "week3",
+        "text": "Week 3 focuses on LLM and RAG System. Learners study prompt engineering, embeddings, vector database, cosine similarity, retrieval, answer generation, LangChain, and RAG evaluation.",
+        "score": 0.0668
+      }
+    ],
+    "evaluation": {
+      "has_context": true,
+      "has_sources": true,
+      "answer_length": 257,
+      "top_score": 0.2212
+    }
+  }
+]

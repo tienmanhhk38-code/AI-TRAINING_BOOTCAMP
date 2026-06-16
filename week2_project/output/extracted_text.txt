@@ -1,0 +1,7 @@
+## Source: sample_document.txt
+
+AI Training Bootcamp Week 2
+This sample document is used to test the OCR pipeline structure.
+In a real OCR project, this text would come from a PDF or image.
+Week 2 focuses on AI system architecture, OCR basics, image preprocessing, PDF processing, and text chunking.
+The final output should include extracted text and chunks with source metadata.

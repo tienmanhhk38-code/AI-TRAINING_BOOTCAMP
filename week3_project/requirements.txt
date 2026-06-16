@@ -1,0 +1,7 @@
+# Core project uses Python standard library only.
+# Optional future dependencies:
+# chromadb
+# faiss-cpu
+# langchain
+# google-generativeai
+# groq

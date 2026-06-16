@@ -1,0 +1,57 @@
+[
+  {
+    "name": "An",
+    "email": "an@example.com",
+    "customer_id": "1",
+    "is_valid": true,
+    "errors": "",
+    "api_name": "Leanne Graham",
+    "api_email": "Sincere@april.biz",
+    "api_company": "Romaguera-Crona",
+    "status": "success"
+  },
+  {
+    "name": "Binh",
+    "email": "bad-email",
+    "customer_id": "2",
+    "is_valid": false,
+    "errors": "invalid_email",
+    "api_name": "",
+    "api_email": "",
+    "api_company": "",
+    "status": "invalid_data"
+  },
+  {
+    "name": "Chi",
+    "email": "chi@example.com",
+    "customer_id": "3",
+    "is_valid": true,
+    "errors": "",
+    "api_name": "Clementine Bauch",
+    "api_email": "Nathan@yesenia.net",
+    "api_company": "Romaguera-Jacobson",
+    "status": "success"
+  },
+  {
+    "name": "Dung",
+    "email": "dung@example.com",
+    "customer_id": "invalid-id",
+    "is_valid": false,
+    "errors": "invalid_customer_id",
+    "api_name": "",
+    "api_email": "",
+    "api_company": "",
+    "status": "invalid_data"
+  },
+  {
+    "name": "Em",
+    "email": "em@example.com",
+    "customer_id": "9999",
+    "is_valid": true,
+    "errors": "HTTPError",
+    "api_name": "",
+    "api_email": "",
+    "api_company": "",
+    "status": "api_error"
+  }
+]

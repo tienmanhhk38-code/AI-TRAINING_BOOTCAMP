@@ -2,6 +2,15 @@
 
 Source PDF: `C:\Users\MANHPHAN2\Downloads\AI_Training_Bootcamp_Kickoff_v3.pdf`
 
+## Learning Materials
+
+| Week | Folder | Project |
+| --- | --- | --- |
+| Week 1 | [Leaning week 1](Leaning%20week%201/README.md) | [week1_project](week1_project/README.md) |
+| Week 2 | [Leaning week 2](Leaning%20week%202/README.md) | [week2_project](week2_project/README.md) |
+| Week 3 | [Leaning week 3](Leaning%20week%203/README.md) | [week3_project](week3_project/README.md) |
+| Week 4 | [Leaning week 4](Leaning%20week%204/README.md) | [week4_project](week4_project/README.md) |
+
 ## Phân tích nhanh
 
 - Tài liệu là slide kickoff cho bootcamp AI kéo dài từ June 08, 2026 đến July 03, 2026.
@@ -47,7 +56,7 @@ Upload document -> Auto OCR -> Smart Q&A -> Chat UI with citations.
 - Understand and implement a RAG system end-to-end.
 - Demo a fully working AI Chatbot running locally.
 
-Final deliverable: Upload document -> Auto OCR -> Smart Q&A -> Chat UI with citations.
+Final deliverable: Bnk Chatbot -> Admin document management -> Auto OCR/Text Extract -> Smart Q&A -> Chat UI with citations.
 
 ## Roadmap Overview
 
@@ -56,7 +65,7 @@ Final deliverable: Upload document -> Auto OCR -> Smart Q&A -> Chat UI with cita
 | Week 1 | Python Foundation | Data processing script + API calls |
 | Week 2 | AI Architecture + OCR | SA diagram + OCR pipeline |
 | Week 3 | LLM & RAG System | RAG Chatbot Q&A from documents |
-| Week 4 | Build & Demo Chatbot | Complete local AI Chatbot |
+| Week 4 | Build & Demo Bnk Chatbot | Complete local company knowledge chatbot |
 
 Each week: 7 days, 2-3 hours/day, 1 concrete deliverable.
 
@@ -100,9 +109,9 @@ Goal: RAG chatbot that answers questions from real documents.
 
 Deliverable: Chatbot receives question -> finds context in documents -> answers accurately.
 
-## Week 4: Build & Demo AI Chatbot
+## Week 4: Build & Demo Bnk Chatbot
 
-Goal: Demo a complete AI Chatbot running locally.
+Goal: Demo a complete company knowledge chatbot running locally.
 
 | Day | Topic | Content |
 | --- | --- | --- |
@@ -111,7 +120,7 @@ Goal: Demo a complete AI Chatbot running locally.
 | Day 5-6 | Optimize & Testing | Embedding cache, batch processing, pytest unit tests |
 | Day 7 | Local Demo | End-to-end demo run locally, record video walkthrough |
 
-Deliverable: Upload document -> OCR -> RAG Q&A -> Complete Chat UI running locally.
+Deliverable: Admin document management -> OCR/Text Extract -> ChromaDB -> RAG Q&A -> Complete Chat UI running locally.
 
 ## AI System Architecture
 

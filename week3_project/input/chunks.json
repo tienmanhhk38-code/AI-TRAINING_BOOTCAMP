@@ -1,0 +1,22 @@
+[
+  {
+    "chunk_id": "week1:c1",
+    "source": "week1",
+    "text": "Week 1 focuses on Python Foundation. Learners practice syntax, data types, functions, loops, file handling, pandas, regex, API calls, pip, venv, and dotenv."
+  },
+  {
+    "chunk_id": "week2:c1",
+    "source": "week2",
+    "text": "Week 2 focuses on AI Architecture and OCR. Learners draw system architecture, process images and PDFs, extract text, clean OCR output, and chunk text for RAG."
+  },
+  {
+    "chunk_id": "week3:c1",
+    "source": "week3",
+    "text": "Week 3 focuses on LLM and RAG System. Learners study prompt engineering, embeddings, vector database, cosine similarity, retrieval, answer generation, LangChain, and RAG evaluation."
+  },
+  {
+    "chunk_id": "week4:c1",
+    "source": "week4",
+    "text": "Week 4 focuses on building and demoing a complete local AI Chatbot. Learners build FastAPI backend, Streamlit chat UI, upload flow, OCR to RAG pipeline, citations, testing, and local demo."
+  }
+]
