@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from pdf_processor import extract_pdf_text
+from pdf_processor import configure_tesseract_command, extract_pdf_text
 
 
 TEXT_EXTENSIONS = {".txt", ".md"}
@@ -19,6 +19,7 @@ def extract_text_from_image(path):
         raise RuntimeError("Pillow and pytesseract are required for image OCR") from error
 
     image = Image.open(path)
+    configure_tesseract_command(pytesseract)
     return pytesseract.image_to_string(image, lang="eng")
 
 

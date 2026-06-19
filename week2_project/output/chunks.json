@@ -1,8 +1,20 @@
 [
   {
-    "chunk_id": "sample_document.txt:c1",
-    "source": "sample_document.txt",
+    "chunk_id": "image-based-pdf-sample.pdf:c1",
+    "source": "image-based-pdf-sample.pdf",
     "index": 1,
-    "text": "AI Training Bootcamp Week 2\nThis sample document is used to test the OCR pipeline structure.\nIn a real OCR project, this text would come from a PDF or image.\nWeek 2 focuses on AI system architecture, OCR basics, image preprocessing, PDF processing, and text chunking.\nThe final output should include extracted text and chunks with source metadata."
+    "text": "--- Page 1 ---\nThis is an example of an “Image-based PDF” (also known as image-only PDFs).\nImage-based PDFs are typically created through scanning paper in a copier, taking photographs\nor taking screenshots. To a computer, they are images. Though we humans can see text in the\nimage, the file only consists of the image layer but not the searchable text layer that True PDFs\ncontain. As a result, we cannot use a computer to search the text we see in the image as that text\nlayer is missing. There ar"
+  },
+  {
+    "chunk_id": "image-based-pdf-sample.pdf:c2",
+    "source": "image-based-pdf-sample.pdf",
+    "index": 2,
+    "text": "the image as that text\nlayer is missing. There are times when discovery is produced, it will be in an image-based PDF\nformat. When you come across image-based PDFs, ask the U.S. Attorney’s Office in what\nformat was that file originally. Second, ask if they have it in a searchable format and specifically\nif they have it in a digitally created, True, Text-based PDF format. They may not, as they often\nreceive PDFs from other sources before they provide them to you, but you will want to know\nwhat i"
+  },
+  {
+    "chunk_id": "image-based-pdf-sample.pdf:c3",
+    "source": "image-based-pdf-sample.pdf",
+    "index": 3,
+    "text": "vide them to you, but you will want to know\nwhat is the format in which they have it in, and what is the original format of the file (as far as\nthey know)."
   }
 ]
